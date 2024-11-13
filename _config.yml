@@ -18,17 +18,17 @@ avatar: /images/flizz-icon.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 
+  email:
   facebook:
   flickr:
   github:
-  instagram: jelmerjetten/
-  linkedin: jelmer-jetten-79347942/
+  instagram: /jelmerjetten/
+  linkedin: /jelmer-jetten-79347942/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: Jelmsen
+  twitter: /Jelmsen
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: @JelmerJetten
+  youtube: /@JelmerJetten
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
