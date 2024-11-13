@@ -22,13 +22,13 @@ footer-links:
   facebook:
   flickr:
   github:
-  instagram:
-  linkedin:
+  instagram: https://www.instagram.com/jelmerjetten/
+  linkedin: https://www.linkedin.com/in/jelmer-jetten-79347942/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter:
+  twitter: https://x.com/Jelmsen
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube:
+  youtube: https://www.youtube.com/@JelmerJetten
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
