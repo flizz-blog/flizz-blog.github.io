@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Unlocking the Potential of Inbox Hospitality**
+title: Unlocking the Potential of Inbox Hospitality
 ---
 
 
