@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Mastering Digital Communication for E-commerce Success**
+title: Mastering Digital Communication for E-commerce Success
 ---
 
 

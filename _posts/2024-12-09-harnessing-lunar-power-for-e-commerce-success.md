@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Harnessing Lunar Power for E-commerce Success**
+title: Harnessing Lunar Power for E-commerce Success
 ---
 
 
