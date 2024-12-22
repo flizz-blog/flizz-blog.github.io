@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ### Accelerate Your Ecommerce Success with Email Engagement
+title: Accelerate Your Ecommerce Success with Email Engagement
 ---
 
 

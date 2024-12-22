@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Unlocking Ecommerce Success with Digital Mail Magic**
+title: Unlocking Ecommerce Success with Digital Mail Magic
 ---
 
 
