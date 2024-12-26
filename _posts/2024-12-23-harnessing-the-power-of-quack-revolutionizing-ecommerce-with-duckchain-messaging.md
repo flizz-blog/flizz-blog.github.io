@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Harnessing the Power of Quack: Revolutionizing Ecommerce with Duckchain Messaging
+title: Harnessing the Power of Quack - Revolutionizing Ecommerce with Duckchain Messaging
 ---
 
 
