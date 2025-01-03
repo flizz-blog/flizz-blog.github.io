@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Behind the Screens A New Era of Ecommerce Communication**
+title: Behind the Screens A New Era of Ecommerce Communication
 ---
 
 

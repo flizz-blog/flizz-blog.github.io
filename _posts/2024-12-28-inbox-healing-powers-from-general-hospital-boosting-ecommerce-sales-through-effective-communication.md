@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Inbox Healing Powers from General Hospital: Boosting Ecommerce Sales Through Effective Communication**
+title: Inbox Healing Powers from General Hospital - Boosting Ecommerce Sales Through Effective Communication
 ---
 
 

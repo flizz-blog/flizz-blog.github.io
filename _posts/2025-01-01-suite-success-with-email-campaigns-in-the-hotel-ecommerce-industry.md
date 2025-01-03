@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Suite Success with Email Campaigns in the Hotel Ecommerce Industry**
+title: Suite Success with Email Campaigns in the Hotel Ecommerce Industry
 ---
 
 
