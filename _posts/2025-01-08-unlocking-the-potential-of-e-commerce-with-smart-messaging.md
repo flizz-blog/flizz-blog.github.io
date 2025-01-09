@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Unlocking the Potential of E-commerce with Smart Messaging**
+title: Unlocking the Potential of E-commerce with Smart Messaging
 ---
 
 

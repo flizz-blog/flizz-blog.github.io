@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Riding the Digital Waves with Ecommerce: Lessons from Uber Stock**
+title: Riding the Digital Waves with Ecommerce - Lessons from Uber Stock
 ---
 
 
