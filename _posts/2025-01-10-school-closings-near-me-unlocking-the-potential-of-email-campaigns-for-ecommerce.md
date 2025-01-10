@@ -1,8 +1,7 @@
 ---
 layout: post
-title: School Closings Near Me: Unlocking the Potential of Email Campaigns for Ecommerce
+title: Unlocking the Potential of Email Campaigns for Ecommerce
 ---
-
 
 As the crisp autumn air rolls in and schools around the country prepare for unexpected closures, ecommerce businesses have a unique opportunity to leverage these changes to boost sales. With the search term "school closings near me" trending, businesses can craft timely and relevant email marketing campaigns that cater to the needs of families adjusting to these closures.
 
