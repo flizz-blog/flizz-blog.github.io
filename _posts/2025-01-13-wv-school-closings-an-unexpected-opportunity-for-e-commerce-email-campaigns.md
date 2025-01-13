@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WV School Closings: An Unexpected Opportunity for E-commerce Email Campaigns
+title: WV School Closings - An Unexpected Opportunity for E-commerce Email Campaigns
 ---
 
 

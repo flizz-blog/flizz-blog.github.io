@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Caring for Your Ecommerce Growth: Nurture Success with the Right Email Strategies
+title: Caring for Your Ecommerce Growth - Nurture Success with the Right Email Strategies
 ---
 
 
