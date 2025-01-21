@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blue Monday Boost: Elevate Your E-commerce with Savvy Email Campaigns
+title: Blue Monday Boost; Elevate Your E-commerce with Savvy Email Campaigns
 ---
 
 
