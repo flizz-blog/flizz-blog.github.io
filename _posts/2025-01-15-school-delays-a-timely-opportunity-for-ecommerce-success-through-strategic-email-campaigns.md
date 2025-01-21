@@ -1,6 +1,6 @@
 ---
 layout: post
-title: School Delays: A Timely Opportunity for Ecommerce Success Through Strategic Email Campaigns
+title: School Delays A Timely Opportunity for Ecommerce Success Through Strategic Email Campaigns
 ---
 
 

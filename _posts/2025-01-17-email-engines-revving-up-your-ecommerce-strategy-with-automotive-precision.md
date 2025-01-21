@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Email Engines: Revving Up Your Ecommerce Strategy with Automotive Precision
+title: Email Engines Revving Up Your Ecommerce Strategy with Automotive Precision
 ---
 
 

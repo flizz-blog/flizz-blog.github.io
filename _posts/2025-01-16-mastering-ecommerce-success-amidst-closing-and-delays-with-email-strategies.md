@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Mastering Ecommerce Success Amidst Closing and Delays with Email Strategies**
+title: Mastering Ecommerce Success Amidst Closing and Delays with Email Strategies
 ---
 
 
