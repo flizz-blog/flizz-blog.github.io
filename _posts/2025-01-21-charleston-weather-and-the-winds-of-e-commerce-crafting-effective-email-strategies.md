@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Charleston Weather and the Winds of E-commerce: Crafting Effective Email Strategies
+title: Charleston Weather and the Winds of E-commerce - Crafting Effective Email Strategies
 ---
 
 
