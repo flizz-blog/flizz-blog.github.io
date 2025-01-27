@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Ecommerce Success with the WBOC Trend: Unlocking the Power of Strategic Email Campaigns**
+title: Ecommerce Success with the WBOC Trend - Unlocking the Power of Strategic Email Campaigns**
 ---
 
 
