@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test Title: Reba McEntire's Harmonies: A New Era for Ecommerce Engagement"
+title: "Reba McEntire's Harmonies: A New Era for Ecommerce Engagement"
 date: 2025-02-03 13:18:44 +0100
 ---
 
