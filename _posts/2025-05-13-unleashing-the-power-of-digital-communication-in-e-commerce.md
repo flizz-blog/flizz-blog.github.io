@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "**Unleashing the Power of Digital Communication in E-commerce**"
+title: "Unleashing the Power of Digital Communication in E-commerce"
 date: 2025-05-13 13:06:04 +0200
 permalink: /unleashing-the-power-of-digital-communication-in-e-commerce/
 ---
